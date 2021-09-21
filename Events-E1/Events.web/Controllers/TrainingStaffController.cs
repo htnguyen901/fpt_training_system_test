@@ -20,8 +20,6 @@ namespace Events.web.Controllers
         public ActionResult Details(int? id)
         {
             Course course = Db.Courses.Find(id);
-            //var course2 = db.Courses.Where(c => c.Id == id.Value).Include(i => i.CourseInstructor.Id;
-            //Course course = db.Courses.AsQueryable<Courses>().Select(x => x.id == id.Value);
             string query = "Select dbo.AspNetUsers.UserName from dbo.AspNetUsers,dbo.Courses where (dbo.AspNetUsers.Id = dbo.Courses.Instructor) AND (dbo.Courses.Id = " + id.Value + ")";
             var queryResult = Db.Database.SqlQuery<string>(query);
             string name = queryResult.FirstOrDefault();

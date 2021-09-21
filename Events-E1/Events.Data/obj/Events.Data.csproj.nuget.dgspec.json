@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODING\\C\\ASP.NET\\FPTLearningSystem-master\\Events-E1\\Events.Data\\Events.Data.csproj": {}
+    "D:\\CODING\\C\\ASP.NET\\FPTInternalTrainingSystem\\Events-E1\\Events.Data\\Events.Data.csproj": {}
   },
   "projects": {
-    "D:\\CODING\\C\\ASP.NET\\FPTLearningSystem-master\\Events-E1\\Events.Data\\Events.Data.csproj": {
+    "D:\\CODING\\C\\ASP.NET\\FPTInternalTrainingSystem\\Events-E1\\Events.Data\\Events.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODING\\C\\ASP.NET\\FPTLearningSystem-master\\Events-E1\\Events.Data\\Events.Data.csproj",
+        "projectUniqueName": "D:\\CODING\\C\\ASP.NET\\FPTInternalTrainingSystem\\Events-E1\\Events.Data\\Events.Data.csproj",
         "projectName": "Events.Data",
-        "projectPath": "D:\\CODING\\C\\ASP.NET\\FPTLearningSystem-master\\Events-E1\\Events.Data\\Events.Data.csproj",
+        "projectPath": "D:\\CODING\\C\\ASP.NET\\FPTInternalTrainingSystem\\Events-E1\\Events.Data\\Events.Data.csproj",
         "packagesPath": "C:\\Users\\hangu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODING\\C\\ASP.NET\\FPTLearningSystem-master\\Events-E1\\Events.Data\\obj\\",
+        "outputPath": "D:\\CODING\\C\\ASP.NET\\FPTInternalTrainingSystem\\Events-E1\\Events.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hangu\\AppData\\Roaming\\NuGet\\NuGet.Config",

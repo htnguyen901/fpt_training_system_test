@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "icc6KOa4Cjd7rAEJcn3/8XDqu1OpIVxJSP9BnoRTVUlzEPdPtrxzuRDIW9kL64JBTa1CT6G7Tm5iXXhZEhJJsw==",
+  "dgSpecHash": "1QC4asZ1G5yVPEQqe1q3/P8jO2ZPPbX8uBu2fIXs03R0uGxDy6zMcHTgk8gEluxvpKHPJswBLP5EnvBtAH3ZbQ==",
   "success": true,
-  "projectFilePath": "D:\\CODING\\C\\ASP.NET\\FPTLearningSystem-master\\Events-E1\\Events.Data\\Events.Data.csproj",
+  "projectFilePath": "D:\\CODING\\C\\ASP.NET\\FPTInternalTrainingSystem\\Events-E1\\Events.Data\\Events.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
