@@ -19,7 +19,5 @@ namespace Events.web.Models
         public string Instructor { get; set; }
 
         public CourseCategory CourseCategory { get; set; }
-
-        /*public IEnumerable<ApplicationUser> Users { get; set; }*/
     }
 }
