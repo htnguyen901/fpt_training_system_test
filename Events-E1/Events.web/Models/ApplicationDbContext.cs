@@ -16,8 +16,6 @@ namespace Events.web.Models
         public IDbSet<CourseCategory> CourseCategories { get; set; }
 
         public IDbSet<CoursesAssigned> CoursesAssigned { get; set; }
-        //public IDbSet<Event> Events { get; set; }
-        //public IDbSet<Comment> Comments { get; set; }
 
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
